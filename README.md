@@ -1,16 +1,12 @@
-# Pixel Art Maker Project
+# Pixel Art Maker
+Anyone can create art with this simple Pixel Art Maker!
 
-## Table of Contents
+## Play Now
+[Play Now](https://samsonloftin.github.io/pixel-art-maker/)
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
-
-## Instructions
-
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+## Future Updates
+- [ ] Custom UI
+- [ ] Snazzy design
 
 ## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+The [original repository](https://github.com/udacity/project-pixel-art-maker-starter) is starter code for _all_ Udacity students. The original project was built by the team at Udacity for the [Front-End Web Development Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) course.
